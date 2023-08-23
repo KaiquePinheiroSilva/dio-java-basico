@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-java-basico-1_4b2be73f"
+        },
+        {
+            "type": "java",
             "name": "Usuario",
             "request": "launch",
             "mainClass": "Usuario",
